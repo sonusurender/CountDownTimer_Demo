@@ -1,5 +1,6 @@
 # Count Down Timer in Android
 Explained how to create a [CountDownTimer](http://developer.android.com/intl/es/reference/android/os/CountDownTimer.html) in Android. CountDownTimer is used to Schedule a countdown until a time in the future, with regular notifications on intervals along the way. For this we are going to use inbuilt CountDownTimer abstract class.
+<br>
 Basically CountDownTimer is working on Seconds but we can manipulate it to work on Minutes, Hours or Days. 
 
 For detailed explanation of code, [visit here](http://www.androhub.com/count-down-timer-in-android/).
